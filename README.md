@@ -1,3 +1,7 @@
+# HandyShake.me 🤝
+
+Record handshake deals in seconds based on market standard [Y-Combinator Handshake Deal Protocol](https://www.ycombinator.com/handshake/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
